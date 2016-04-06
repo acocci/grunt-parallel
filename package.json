@@ -26,10 +26,10 @@
     "node": "*"
   },
   "peerDependencies": {
-    "grunt": ">= 0.4.1 < 1.1"
+    "grunt": "*"
   },
   "devDependencies": {
-    "grunt": ">=0.4.1"
+    "grunt": "*"
   },
   "keywords": [
     "gruntplugin",
@@ -37,7 +37,7 @@
   ],
   "dependencies": {
     "q": "~0.8.12",
-    "grunt": ">=0.4.1",
+    "grunt": "*",
     "lpad": "~0.1.0"
   }
 }
