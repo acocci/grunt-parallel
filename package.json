@@ -29,7 +29,7 @@
     "grunt": ">= 0.4.1 < 1.1"
   },
   "devDependencies": {
-    "grunt": ">= 0.4.1 < 1.1"
+    "grunt": ">=0.4.1"
   },
   "keywords": [
     "gruntplugin",
@@ -37,7 +37,7 @@
   ],
   "dependencies": {
     "q": "~0.8.12",
-    "grunt": ">= 0.4.1 < 1.1",
+    "grunt": ">=0.4.1",
     "lpad": "~0.1.0"
   }
 }
